@@ -24,7 +24,6 @@ python3 lock_server.py
 
 ## 2ºPasso: Correr o cliente 
 
-#### **Run it on terminal** 
 ```bash
 python3 lock_client.py
 ```
