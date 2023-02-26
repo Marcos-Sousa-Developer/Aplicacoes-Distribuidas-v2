@@ -20,8 +20,16 @@ enviará também uma lista, com um código de resposta de operação que será s
 
 #### **Run it on terminal** 
 ```bash
+python3 lock_server.py
+```
+
+## Segundo Passo 
+
+#### **Run it on terminal** 
+```bash
 python3 lock_client.py
 ```
+
 ## Comando LOCK
 
 Bloqueia um determinado recurso para leitura (R) ou escrita (W) durante um tempo de concessão específico (em segundos) para o cliente que está a enviar o pedido. Se o pedido for para um bloqueio de escrita (W), o recurso pode ser bloqueado para a escrita apenas
