@@ -1,5 +1,5 @@
 <p align="center">
-    <img src="https://www.freepnglogos.com/uploads/server-png/server-icon-download-icons-17.png" alt="Logo" width="80" height="80">
+    <img src="https://cdn-icons-png.flaticon.com/512/5016/5016854.png" alt="Logo" width="80" height="80">
 </p>
 
 # <h1 align="center">Gestor de bloqueios a recursos para leituras e escritas</h1>
